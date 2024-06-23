@@ -1,0 +1,37 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "fd ghf",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jeau",
+                "name": "Thierry Pasquier"
+            },
+            "created": "2024-06-23T12:17:38.254Z",
+            "modified": "2024-06-23T12:17:38.509Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4742.6680908203125\" cy=\"3294.449462890625\" r=\"2408.816033657105\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b77efaf-f0cd-48a7-8157-048f3addc89b.json",
+    "motivation": "commenting"
+}
