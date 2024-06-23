@@ -1,0 +1,37 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ds jhfsdhj ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jeau",
+                "name": "Thierry Pasquier"
+            },
+            "created": "2024-06-23T12:15:39.504Z",
+            "modified": "2024-06-23T12:15:40.006Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2562.6112060546875\" cy=\"4488.25146484375\" rx=\"1522.7996826171875\" ry=\"971.197265625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ffb0778-dc4d-47ee-8de7-e53291b9b3a7.json",
+    "motivation": "commenting"
+}
